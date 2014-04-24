@@ -20,7 +20,10 @@
 	"require": {
 		"typo3/flow": "2.1.*",
 		"typo3/welcome": "2.1.*",
-		"doctrine/migrations": "@dev"
+		"doctrine/migrations": "@dev",
+		"subugoe/germaniasacra": "dev-master",
+		"flow/login": "dev-master",
+		"typo3/accountmanagement": "dev-master"
 	},
 	"require-dev": {
 		"typo3/kickstart": "2.1.*",
