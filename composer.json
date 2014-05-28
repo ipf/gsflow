@@ -18,16 +18,16 @@
 		}
 	],
 	"require": {
-		"typo3/flow": "2.1.*",
-		"typo3/welcome": "2.1.*",
+		"typo3/flow": "2.2.*",
+		"typo3/welcome": "2.2.*",
 		"doctrine/migrations": "@dev",
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
 		"typo3/accountmanagement": "dev-master"
 	},
 	"require-dev": {
-		"typo3/kickstart": "2.1.*",
-		"typo3/buildessentials": "2.1.*",
+		"typo3/kickstart": "2.2.*",
+		"typo3/buildessentials": "2.2.*",
 		"mikey179/vfsstream": "1.2.*",
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
