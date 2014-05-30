@@ -15,7 +15,8 @@
 		},
 		{
 			"type": "vcs",
-			"url": "https://github.com/svparijs/TYPO3.AccountManagement"
+			"url": "https://github.com/svparijs/TYPO3.AccountManagement",
+			"no-api": "true"
 		}
 	],
 	"require": {
