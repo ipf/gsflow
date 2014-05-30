@@ -10,7 +10,8 @@
 	"repositories": [
 		{
 			"type": "vcs",
-			"url": "https://github.com/svparijs/Flow.Login"
+			"url": "https://github.com/svparijs/Flow.Login",
+			"no-api": "true"
 		},
 		{
 			"type": "vcs",
