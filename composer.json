@@ -25,7 +25,8 @@
 		"doctrine/migrations": "@dev",
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
-		"typo3/accountmanagement": "dev-master"
+		"typo3/accountmanagement": "dev-master",
+		"solarium/solarium": "dev-master"
 	},
 	"require-dev": {
 		"typo3/kickstart": "2.2.*",
