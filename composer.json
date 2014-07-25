@@ -26,7 +26,9 @@
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
 		"typo3/accountmanagement": "dev-master",
-		"solarium/solarium": "dev-master"
+		"solarium/solarium": "dev-master",
+		"knplabs/github-api": "*"
+
 	},
 	"require-dev": {
 		"typo3/kickstart": "2.2.*",
@@ -34,7 +36,8 @@
 		"mikey179/vfsstream": "1.2.*",
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
-		"typo3/accountmanagement": "dev-master"
+		"typo3/accountmanagement": "dev-master",
+		"knplabs/github-api": "*"
 	},
 	"suggest": {
 		"ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
