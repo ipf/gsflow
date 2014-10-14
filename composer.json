@@ -29,6 +29,7 @@
 		"solarium/solarium": "dev-master",
 		"knplabs/github-api": "*",
 		"typo3/jobqueue-common": "dev-master",
+		"subugoe/jobqueue-redis": "dev-master",
 		"predis/predis": "dev-master"
 
 	},
