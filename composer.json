@@ -27,7 +27,9 @@
 		"flow/login": "dev-master",
 		"typo3/accountmanagement": "dev-master",
 		"solarium/solarium": "dev-master",
-		"knplabs/github-api": "*"
+		"knplabs/github-api": "*",
+		"typo3/jobqueue-common": "dev-master",
+		"predis/predis": "dev-master"
 
 	},
 	"require-dev": {
