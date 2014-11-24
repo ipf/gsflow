@@ -25,7 +25,6 @@
 		"doctrine/migrations": "@dev",
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
-		"typo3/accountmanagement": "dev-master",
 		"solarium/solarium": "dev-master",
 		"knplabs/github-api": "*",
 		"typo3/jobqueue-common": "dev-master",
@@ -39,7 +38,6 @@
 		"mikey179/vfsstream": "1.2.*",
 		"subugoe/germaniasacra": "dev-master",
 		"flow/login": "dev-master",
-		"typo3/accountmanagement": "dev-master",
 		"knplabs/github-api": "*"
 	},
 	"suggest": {
