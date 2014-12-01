@@ -37,7 +37,7 @@
 		"typo3/buildessentials": "2.2.*",
 		"mikey179/vfsstream": "1.2.*",
 		"subugoe/germaniasacra": "dev-master",
-		"flow/login": "dev-master",
+		"flow/login": "dev-master"
 	},
 	"suggest": {
 		"ext-pdo_sqlite": "For running functional tests out-of-the-box this is required"
